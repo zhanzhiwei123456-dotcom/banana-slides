@@ -458,6 +458,7 @@ npm install
 #### 启动后端服务
 > （可选）如果本地已有重要数据，升级前建议先备份数据库：  
 > `cp backend/instance/database.db backend/instance/database.db.bak`
+> 备注： 默认配置下，模板、素材、成品都在uploads/文件夹中
 
 ```bash
 cd backend
